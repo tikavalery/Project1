@@ -148,7 +148,7 @@ var rightPressed = false;   // intialized Arrow Key states for PADDLE & WALL col
 var leftPressed = false;
 
 
-const brickRowCount = 1;
+const brickRowCount = 4;
 const brickColumnCount = 6;
 const brickWidth = 115;
 const brickHeight = 26;
